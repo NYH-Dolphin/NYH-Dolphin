@@ -13,7 +13,7 @@
 
 <br/>  
 
-![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true)
+![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true) 
 
 <br/>  
 
