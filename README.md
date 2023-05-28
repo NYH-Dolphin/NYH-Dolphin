@@ -13,6 +13,9 @@
 
 <br/>  
 
+![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true)
+
+<br/>  
 
 <table><tr><td valign="top" width="33%">
 
@@ -62,10 +65,6 @@
 
 <br/>  
 
-![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true)
-
-<br/>  
-<br/>
 
 <div align="center">
 <a href="https://github.com/https://github.com/NYH-Dolphin" target="_blank">
