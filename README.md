@@ -14,7 +14,6 @@
 <br/>  
 
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -67,7 +66,7 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
 <br/>  
-
+<br/>
 
 <div align="center">
 <a href="https://github.com/https://github.com/NYH-Dolphin" target="_blank">
