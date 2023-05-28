@@ -1,4 +1,4 @@
-### <div align="center">Dolphin NIE</div>  
+# <div align="center">Dolphin NIE</div>  
   
 
 - 🏫 M.S. in Integrate Design & Media @ NTU Tandon
