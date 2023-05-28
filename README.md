@@ -1,7 +1,7 @@
 # <div align="center">Dolphin NIE</div>  
   
 
-- 🏫 M.S. in Integrate Design & Media @ NTU Tandon
+- 🏫 M.S. in Integrate Design & Media @ NTU Tandon => Computer Science + Game Center 😊
   
   
 
