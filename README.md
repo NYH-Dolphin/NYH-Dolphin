@@ -1,16 +1,15 @@
 # <div align="center">Dolphin NIE</div>  
   
 
-- 🏫 M.S. in Integrate Design & Media @ NTU Tandon => Computer Science + Game Center 😊
+- 🏫 M.S. in Integrate Design & Media @ NYU Tandon (with focus on Game courses from Computer Science + Game Center) 😊
   
   
-
 - 🏫 B.S. in Computer Science and Technology @ SUSTech  
   
 
-- 🤔 Game Dev, VR/AR/MR, Computer Graphic, HCI  
+- 🤔 Game Dev, VR/AR/MR, Computer Graphic, HCI, Interaction
   
-
+- 🙂 I like playing games and watching Japanese animations~ Feel free to DM with me with the related topic.
 <br/>  
 
 ![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true) 
