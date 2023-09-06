@@ -14,7 +14,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NYH-Dolphin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NYH-Dolphin)](https://github.com/NYH-Dolphin/github-readme-stats)
 
 
 <br/>  
