@@ -18,6 +18,8 @@
 
 ## Projects & Games
 
+![Bard's Adventure by NYH-Dolphin](https://itch.io/embed/1692044) 
+![SUSTech Pokémon by NYH-Dolphin](https://itch.io/embed/1692130)
 
 <div><iframe frameborder="0" src="https://itch.io/embed/1692044" width="552" height="167"><a href="https://nyh-dolphin.itch.io/dancing-line-bards-adventure">Bard's Adventure by NYH-Dolphin</a></iframe></div>
 
