@@ -6,7 +6,6 @@
 - 🏫 B.Eng. in Computer Science and Technology @ SUSTech  
 - 🤔 Game Dev, VR/AR/MR, Game Artificial Intelligence, Computer Graphic, HCI, Interaction
 - 🙂 I like playing games and watching Japanese animations~ Feel free to DM with me with the related topic
-<br/>  
 
 ## Status
 ![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true&layout=compact) 
@@ -16,3 +15,14 @@
 - **\[IEEE CoG 2023 Best Paper\]** <u>Nie, Y.</u>, Zheng, S., Zhuang, Z., & Song, X. (2023). Extend Wave Function Collapse to Large-Scale Content Generation. arXiv preprint arXiv:2308.07307.
 - **\[IJHCI 2023\]** Mu, R., <u>Nie, Y.</u>, Cao, K., You, R., Wei, Y., & Tong, X. (2023). Pilgrimage to Pureland: Art, Perception and the Wutai Mural VR Reconstruction. arXiv preprint arXiv:2304.07511.
 - **\[Patent\]** Song, X., Nie, Y., Zhang, H., Zhuang, Z. (2023). Methods, devices, servers and storage for obtaining the close contact's information
+
+## Projects & Games
+
+<iframe frameborder="0" src="https://itch.io/embed/1692044" width="552" height="167"><a href="https://nyh-dolphin.itch.io/dancing-line-bards-adventure">Bard's Adventure by NYH-Dolphin</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1692130" width="552" height="167"><a href="https://nyh-dolphin.itch.io/sustech-pokemon">SUSTech Pokémon by NYH-Dolphin</a></iframe>
+
+
+
+
+
