@@ -20,9 +20,9 @@
 
 Try my games at https://nyh-dolphin.itch.io/
 
-![Floating Down by NYH-Dolphin](./Games/Floating Down.png)
-![Bard's Adventure by NYH-Dolphin](./Games/Bard Adventure.png) 
-![SUSTech Pokémon by NYH-Dolphin](./Games/SUSTech Pokemon.png)
+![Floating Down by NYH-Dolphin](Games/Floating Down.png)
+![Bard's Adventure by NYH-Dolphin](Games/Bard Adventure.png) 
+![SUSTech Pokémon by NYH-Dolphin](Games/SUSTech Pokemon.png)
 
 
 
