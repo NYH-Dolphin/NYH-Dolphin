@@ -10,7 +10,8 @@
 - 🙂 I like playing games and watching Japanese animations~ Feel free to DM with me with the related topic.
 <br/>  
 
-![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true) 
+<div align="center">![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true)</div>
+
 
 <br/>  
 
