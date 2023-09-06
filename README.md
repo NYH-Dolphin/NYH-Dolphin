@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true" />
 </a>
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NYH-Dolphin&repo=NYH-Dolphin)
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NYH-Dolphin&repo=NYH-Dolphin&layout=compact)
 
 
 <br/>  
