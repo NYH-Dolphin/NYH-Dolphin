@@ -1,10 +1,10 @@
 # <div align="center">Dolphin NIE</div>  
-  
+- 👩‍💻 Game Innovation Lab @ NYU \[Research on Game AI|PCG\]
 
-- 🏫 M.S. in Integrate Design & Media @ NYU Tandon (with focus on Game courses from Computer Science + Game Center) 😊
+- 🏫 M.S. in Integrate Design & Media @ NYU Tandon (focuing on enterntainment technology courses from Computer Science + Game Center) 
   
   
-- 🏫 B.S. in Computer Science and Technology @ SUSTech  
+- 🏫 B.Eng. in Computer Science and Technology @ SUSTech  
   
 
 - 🤔 Game Dev, VR/AR/MR, Computer Graphic, HCI, Interaction
