@@ -11,5 +11,5 @@
 <br/>  
 
 
-![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true) 
+![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true&layout=compact) 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NYH-Dolphin&repo=NYH-Dolphin&layout=compact)
