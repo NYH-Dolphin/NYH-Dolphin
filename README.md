@@ -15,10 +15,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NYH-Dolphin&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NYH-Dolphint" />
 </a>
-
-![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true)
 
 
 <br/>  
