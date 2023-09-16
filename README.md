@@ -17,9 +17,7 @@
 
 ## Projects & Games
 
-Try my games at https://nyh-dolphin.itch.io/
-
-<img src="Games/Floating_Down.png" alt="Floating Down by NYH-Dolphin" width="300"><img src="Games/Bard_Adventure.png" alt="Bard's Adventure by NYH-Dolphin" width="300"><img src="Games/SUSTech_Pokemon.png" alt="SUSTech Pokémon by NYH-Dolphin" width="300">
+Find them at https://nyh-dolphin.itch.io/
 
 ## Stats
 ![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true&layout=compact) 
