@@ -1,7 +1,5 @@
 # <div align="center">Dolphin NIE</div>
 
-<img src="https://camo.githubusercontent.com/f09d17310945e7029864473560e6740528063451d59d7e3eda2cf2d7b0279a64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d79756e6c6f6e673130267374796c653d666c6174" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=NYH-Dolphin&amp;style=flat" style="max-width: 100%;">
-
 
 ## Introduction
 - 👩‍💻 Game Innovation Lab @ NYU \[Research on Game AI | Procedural Content Generation\]
