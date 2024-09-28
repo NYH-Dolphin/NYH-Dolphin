@@ -6,7 +6,8 @@
 
 
 ## Stats
-![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&theme=transparent&show_icons=true&count_private=true&show_icons=true&theme=github_dark) 
+![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&count_private=true&show_icons=true&theme=github_dark)
+
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NYH-Dolphin&repo=NYH-Dolphin&layout=compact)
 
 
