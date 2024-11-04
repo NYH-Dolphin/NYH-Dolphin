@@ -1,7 +1,5 @@
 # <div align="center">Dolphin NIE</div>
 
-❗I am currently seeking internship or job opportunities as a Web || Front-end || Back-end || Full-Stack Developer. Anything related to software development is highly welcomed!
-
 ## About Me
 - 😊 I'm trying to balance what I love and what I can do...
 - 👩‍💻 Programming. Do real things, make real life, benefit people and the world
