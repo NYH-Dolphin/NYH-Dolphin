@@ -1,7 +1,7 @@
 # <div align="center">Dolphin NIE</div>
 
 ## About Me
-- 😊 I'm trying to balance what I love and what I can do...
+- 💼 Front-End & Full-Stack Engineer. Interested in AI Application Engineering, User Experience, and Human-Computer Interaction
 - 👩‍💻 Programming. Do real things, make real life, benefit people and the world
 - 🙂 I like watching Japanese animations~ Feel free to DM me with the related topic
 
