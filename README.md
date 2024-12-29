@@ -1,5 +1,7 @@
 # <div align="center">Dolphin NIE</div>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=NYH-Dolphin&repo=github-visitors-badge&countColor=%57068c)
+
 ## About Me
 - 💼 Front-End & Full-Stack Engineer. Interested in AI Application Engineering, User Experience, and Human-Computer Interaction
 - 👩‍💻 Programming. Do real things, make real life, benefit people and the world
