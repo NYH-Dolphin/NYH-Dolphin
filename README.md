@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 💼 Front-End & Full-Stack Engineer. Interested in AI Application Engineering, User Experience, and Human-Computer Interaction
+- 💼 Front-End & Full-Stack Engineer. Focus on AI Application Engineering, User Experience, and Human-Computer Interaction
 - 👩‍💻 Programming. Do real things, make real life, benefit people and the world
 - 🙂 I like watching Japanese animations~ Feel free to DM me with the related topic
 
