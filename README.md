@@ -21,9 +21,9 @@ I enjoy programming, development, and interaction. I love learning about softwar
 The knowledge taught in school is quite limited, and no matter how good the university is, as a developer, I can only truly strengthen my abilities through self-learning and hands-on projects.
 
 
-## Stats
+## Stacks and Stats
 ![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&count_private=true&show_icons=true&theme=swift)
-
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nyh-dolphin/personal-stack)
 
 
 
