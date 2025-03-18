@@ -1,5 +1,6 @@
 # <div align="center">Dolphin NIE</div>
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nyh-dolphin/personal-stack)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=NYH-Dolphin&repo=github-visitors-badge&countColor=%57068c)
 
 ## About Me
@@ -23,7 +24,7 @@ The knowledge taught in school is quite limited, and no matter how good the univ
 
 ## Stacks and Stats
 ![Dolphin NIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYH-Dolphin&count_private=true&show_icons=true&theme=swift)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nyh-dolphin/personal-stack)
+
 
 
 
