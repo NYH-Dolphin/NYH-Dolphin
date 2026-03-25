@@ -1,11 +1,11 @@
-# <div align="center">Dolphin NIE</div>
+# <div align="center">NIE</div>
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/nyh-dolphin/personal-stack)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=NYH-Dolphin&repo=github-visitors-badge&countColor=%57068c)
 
 ## About Me
 
-- 💼 Front-End & Full-Stack Engineer. Focus on AI Application Engineering, User Experience, and Human-Computer Interaction
+- 💼 Game & Front-End Engineer. Focus on AI Application Engineering, User Experience, and Human-Computer Interaction
 - 👩‍💻 Programming. Do real things, make real life, benefit people and the world
 - 🙂 I like watching Japanese animations~ Feel free to DM me with the related topic
 
