@@ -5,13 +5,13 @@
 
 ## About Me
 
-- 💼 Game & Front-End Engineer. Focus on AI Application Engineering, User Experience, and Human-Computer Interaction
+- 💼 Game & Front-End Engineer. Focus on Game Engineering, AI Application Engineering, User Experience, and Human-Computer Interaction
 - 👩‍💻 Programming. Do real things, make real life, benefit people and the world
 - 🙂 I like watching Japanese animations~ Feel free to DM me with the related topic
 
 ## Self Introduction
 
-I am an engineer passionate about pushing the boundaries of technology and product innovation, specializing in front-end and full-stack development, AI engineering, and human-computer interaction. I integrate system, product, and interaction design to build intelligent products with exceptional user experience. I am passionate about large-scale interactive systems and focus on continuous optimization and innovation. I excel in rapid learning, systematic engineering thinking, and problem-solving, ensuring technology creates real impact and drives meaningful change.
+I am an engineer passionate about pushing the boundaries of technology and product innovation, specializing in game client development, front-end development, AI engineering, and human-computer interaction. I integrate system, product, and interaction design to build intelligent products with exceptional user experience. I am passionate about large-scale interactive systems and focus on continuous optimization and innovation. I excel in rapid learning, systematic engineering thinking, and problem-solving, ensuring technology creates real impact and drives meaningful change.
 
 ## Something I want to talk
 
